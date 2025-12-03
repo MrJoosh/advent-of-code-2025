@@ -1,0 +1,7 @@
+test.txt
+input.txt
+puzzle.md
+__pycache__
+.pytest_cache
+.venv
+first_15.txt
