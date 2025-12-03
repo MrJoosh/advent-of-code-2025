@@ -1,7 +1,0 @@
-[project]
-name = "aoc-2025-day1"
-version = "0.1.0"
-description = "Python implementation of Advent of Code 2025 Day 1."
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
