@@ -1,0 +1,3 @@
+new DAY_NUM:
+  ./new-day.sh {{DAY_NUM}}
+
